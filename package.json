@@ -1,0 +1,31 @@
+{
+  "name": "testando_cores",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tallescallink/Testando_cores.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tallescallink/Testando_cores/issues"
+  },
+  "homepage": "https://github.com/tallescallink/Testando_cores#readme",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.12",
+    "tailwindcss": "^4.1.12"
+  },
+  "devDependencies": {
+    "daisyui": "^5.0.50",
+    "vite": "^7.1.3"
+  }
+}
